@@ -60,3 +60,7 @@ def using_delete(array, string)
   array = array.delete ("Steven")
   p array
 end 
+
+def using_delete_at(array, integer)
+  
+end
