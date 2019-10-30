@@ -38,4 +38,7 @@ def using_push(array, string)
            new_array =array1.concat array2
             p new_array
             end
+            
+            def using_insert(array,element)
+              
   
