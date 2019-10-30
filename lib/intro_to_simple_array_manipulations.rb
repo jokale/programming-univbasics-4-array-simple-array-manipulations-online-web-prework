@@ -35,8 +35,6 @@ def using_push(array, string)
       end 
         
         def using_concat(array1, array2)
-           array1= ["raindrops on roses", "whiskers on kittens"]
-           array2 = ["sports cars", "flatiron school"]
            new_array =array1.concat array2
             p new_array
             end
