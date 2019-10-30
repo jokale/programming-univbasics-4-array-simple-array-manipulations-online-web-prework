@@ -46,4 +46,7 @@ def using_push(array, string)
     p new_array
   end 
   
-  
+  def using_uniq(array)
+    array = array.uniq 
+    p array
+  end 
