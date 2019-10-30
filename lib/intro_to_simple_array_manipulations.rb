@@ -57,4 +57,6 @@ def using_flatten(array)
 end 
 
 def using_delete(array, string)
-  array = array.delete ()
+  array = array.delete ("Steven")
+  p array
+end 
