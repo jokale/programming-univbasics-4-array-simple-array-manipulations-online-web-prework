@@ -50,3 +50,8 @@ def using_push(array, string)
     array = array.uniq 
     p array
   end 
+  
+def using_flatten(array)
+  array = array.flatten 
+  p array
+end 
